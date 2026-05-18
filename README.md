@@ -29,7 +29,7 @@ Sadece sizin bildiğiniz ve belirlediğiniz şifre ile erişim sağlayın.
 ---
 ### Product Categories
 
-![Categories](https://i.ibb.co/yn4NgY5y/image.png)
+![Categories](https://i.ibb.co/wNTZvyBz/G-r-nt-19-05-2026-00-46.png)
 
 Ürünler kategori bazlı olarak düzenlenebilir. Böylece müşteriler içecekler, yemekler, tatlılar veya özel menüler arasında kolayca gezinebilir.
 
